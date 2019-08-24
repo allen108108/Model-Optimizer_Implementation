@@ -9,9 +9,9 @@
 
 1. ShuffleNet v2
 
-    * 相關論文 :  
+    * 相關論文 :  https://arxiv.org/abs/1807.11164
     Ma, Ningning, Xiangyu Zhang, Hai-Tao Zheng and Jian Sun.  
-    “ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.”  
+    “*ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.*”  
     ArXiv abs/1807.11164 (2018): n. pag.
     
    * ShuffleNet v2 for keras :   
@@ -22,18 +22,18 @@
 
 1. Lookahead
 
-    * 相關論文 :  
+    * 相關論文 :  https://arxiv.org/abs/1907.08610 
     R. Zhang, Michael & Lucas, James & Hinton, Geoffrey & Ba, Jimmy. (2019).   
-    Lookahead Optimizer: k steps forward, 1 step back. 
+    *Lookahead Optimizer: k steps forward, 1 step back.* 
     
     * Lookahead for keras :  
     https://github.com/bojone/keras_lookahead
 
 2. Rectified Adam
 
-    * 相關論文 :  
+    * 相關論文 :  https://arxiv.org/abs/1908.03265
     Liu, Liyuan & Jiang, Haoming & He, Pengcheng & Chen, Weizhu & Liu, Xiaodong & Gao, Jianfeng & Han, Jiawei. (2019).   
-    On the Variance of the Adaptive Learning Rate and Beyond. 
+    *On the Variance of the Adaptive Learning Rate and Beyond.* 
     
     * RAdam for keras (1) :  
     https://github.com/CyberZHG/keras-radam
