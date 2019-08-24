@@ -8,17 +8,34 @@
 ## 模型 Models
 
 1. ShuffleNet v2
-相關論文 : Ma, Ningning, Xiangyu Zhang, Hai-Tao Zheng and Jian Sun. “ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.” ArXiv abs/1807.11164 (2018): n. pag.
-ShuffleNet v2 for keras : https://github.com/opconty/keras-shufflenetV2
+
+    相關論文 : 
+    Ma, Ningning, Xiangyu Zhang, Hai-Tao Zheng and Jian Sun. 
+    “ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.” 
+    ArXiv abs/1807.11164 (2018): n. pag.
+    
+    ShuffleNet v2 for keras : 
+    https://github.com/opconty/keras-shufflenetV2
 
 
 ## 優化器 Optimizers
 
 1. Lookahead
-相關論文 : R. Zhang, Michael & Lucas, James & Hinton, Geoffrey & Ba, Jimmy. (2019). Lookahead Optimizer: k steps forward, 1 step back. 
-Lookahead for keras : https://github.com/bojone/keras_lookahead
 
-2.Rectified Adam
-相關論文 : Liu, Liyuan & Jiang, Haoming & He, Pengcheng & Chen, Weizhu & Liu, Xiaodong & Gao, Jianfeng & Han, Jiawei. (2019). On the Variance of the Adaptive Learning Rate and Beyond. 
-RAdam for keras (1) :https://github.com/CyberZHG/keras-radam
-https://github.com/titu1994/keras_rectified_adam
+    相關論文 : 
+    R. Zhang, Michael & Lucas, James & Hinton, Geoffrey & Ba, Jimmy. (2019). 
+    Lookahead Optimizer: k steps forward, 1 step back. 
+    
+    Lookahead for keras : 
+    https://github.com/bojone/keras_lookahead
+
+2. Rectified Adam
+
+    相關論文 : 
+    Liu, Liyuan & Jiang, Haoming & He, Pengcheng & Chen, Weizhu & Liu, Xiaodong & Gao, Jianfeng & Han, Jiawei. (2019). 
+    On the Variance of the Adaptive Learning Rate and Beyond. 
+    
+    RAdam for keras (1) : 
+    https://github.com/CyberZHG/keras-radam
+    RAdam for keras (2) : 
+    https://github.com/titu1994/keras_rectified_adam
