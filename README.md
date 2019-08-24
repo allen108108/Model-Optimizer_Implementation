@@ -9,10 +9,10 @@
 
 1. ShuffleNet v2
 
-    * 相關論文 : 
+    * 相關論文 :  
     Ma, Ningning, Xiangyu Zhang, Hai-Tao Zheng and Jian Sun. 
-    “ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.” 
-    ArXiv abs/1807.11164 (2018): n. pag.
+        “ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design.” 
+        ArXiv abs/1807.11164 (2018): n. pag.
     
    * ShuffleNet v2 for keras : 
         https://github.com/opconty/keras-shufflenetV2
